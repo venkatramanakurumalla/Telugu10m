@@ -1,4 +1,160 @@
-{"conversations": [{"from": "human", "value": "టీవీ యాంకర్ ఓపెనింగ్ చెప్పు"}, {"from": "gpt", "value": "నమస్కారం. ఈ రోజు వార్తలకు స్వాగతం. నేను మీ వెంకట్. ముందుగా ముఖ్యాంశాలు చూద్దాం"}]}
+{"conversations": [{"from": "human", "value": "భారతదేశ రాజధాని ఏది"}, {"from": "gpt", "value": "భారతదేశ రాజధాని న్యూఢిల్లీ"}]}
+{"conversations": [{"from": "human", "value": "ఆంధ్రప్రదేశ్ రాజధాని ప్రస్తుతం ఏది"}, {"from": "gpt", "value": "ప్రస్తుత పరిపాలనా రాజధాని అమరావతి ప్రాంతం"}]}
+{"conversations": [{"from": "human", "value": "తెలంగాణ రాజధాని ఏది"}, {"from": "gpt", "value": "తెలంగాణ రాజధాని హైదరాబాద్"}]}
+{"conversations": [{"from": "human", "value": "భారత జాతీయ జంతువు ఏది"}, {"from": "gpt", "value": "భారత జాతీయ జంతువు పులి"}]}
+{"conversations": [{"from": "human", "value": "భారత జాతీయ పక్షి ఏది"}, {"from": "gpt", "value": "భారత జాతీయ పక్షి నెమలి"}]}
+{"conversations": [{"from": "human", "value": "భారత జాతీయ పుష్పం ఏది"}, {"from": "gpt", "value": "భారత జాతీయ పుష్పం తామర"}]}
+{"conversations": [{"from": "human", "value": "భారత జాతీయ గీతం ఎవరు రాశారు"}, {"from": "gpt", "value": "జాతీయ గీతం జనగణమన రవీంద్రనాథ్ ఠాగూర్ రాశారు"}]}
+{"conversations": [{"from": "human", "value": "భారత జాతీయ గేయం ఏది"}, {"from": "gpt", "value": "జాతీయ గేయం వందేమాతరం బంకించంద్ర చటర్జీ రాశారు"}]}
+{"conversations": [{"from": "human", "value": "సూర్యుడికి అతి దగ్గర గ్రహం ఏది"}, {"from": "gpt", "value": "సూర్యుడికి అతి దగ్గర గ్రహం బుధుడు"}]}
+{"conversations": [{"from": "human", "value": "సౌర కుటుంబంలో అతి పెద్ద గ్రహం ఏది"}, {"from": "gpt", "value": "అతి పెద్ద గ్రహం బృహస్పతి"}]}
+{"conversations": [{"from": "human", "value": "భూమికి ఉపగ్రహం ఏది"}, {"from": "gpt", "value": "భూమికి సహజ ఉపగ్రహం చంద్రుడు"}]}
+{"conversations": [{"from": "human", "value": "నీటి రసాయన సూత్రం ఏది"}, {"from": "gpt", "value": "నీటి రసాయన సూత్రం హెచ్ రెండు ఓ"}]}
+{"conversations": [{"from": "human", "value": "మానవ శరీరంలో అతి పెద్ద అవయవం ఏది"}, {"from": "gpt", "value": "అతి పెద్ద అవయవం చర్మం"}]}
+{"conversations": [{"from": "human", "value": "మానవ శరీరంలో అతి పెద్ద ఎముక ఏది"}, {"from": "gpt", "value": "అతి పెద్ద ఎముక తొడ ఎముక"}]}
+{"conversations": [{"from": "human", "value": "రక్తం శుద్ధి చేసే అవయవం ఏది"}, {"from": "gpt", "value": "రక్తాన్ని శుద్ధి చేసేది మూత్రపిండాలు"}]}
+{"conversations": [{"from": "human", "value": "గుండె కొట్టుకునే సగటు వేగం ఎంత"}, {"from": "gpt", "value": "విశ్రాంతిలో నిమిషానికి డెబ్బై రెండు సార్లు"}]}
+{"conversations": [{"from": "human", "value": "భారత కరెన్సీ పేరు ఏది"}, {"from": "gpt", "value": "భారత కరెన్సీ రూపాయి"}]}
+{"conversations": [{"from": "human", "value": "ఒక రూపాయిలో ఎన్ని పైసలు"}, {"from": "gpt", "value": "ఒక రూపాయిలో నూరు పైసలు"}]}
+{"conversations": [{"from": "human", "value": "భారత స్వాతంత్ర్య దినం ఎప్పుడు"}, {"from": "gpt", "value": "ఆగస్టు పదిహేను పందొమ్మిది వందల నలభై ఏడు"}]}
+{"conversations": [{"from": "human", "value": "గణతంత్ర దినోత్సవం ఎప్పుడు"}, {"from": "gpt", "value": "జనవరి ఇరవై ఆరు పందొమ్మిది వందల యాభై"}]}
+{"conversations": [{"from": "human", "value": "మహాత్మా గాంధీ జయంతి ఎప్పుడు"}, {"from": "gpt", "value": "అక్టోబర్ రెండు"}]}
+{"conversations": [{"from": "human", "value": "తెలుగు భాష దినోత్సవం ఎప్పుడు"}, {"from": "gpt", "value": "ఆగస్టు ఇరవై తొమ్మిది గిడుగు రామ్మూర్తి జయంతి"}]}
+{"conversations": [{"from": "human", "value": "ప్రపంచంలో అతి పెద్ద మహాసముద్రం ఏది"}, {"from": "gpt", "value": "అతి పెద్ద మహాసముద్రం పసిఫిక్ మహాసముద్రం"}]}
+{"conversations": [{"from": "human", "value": "ప్రపంచంలో అతి పొడవైన నది ఏది"}, {"from": "gpt", "value": "అతి పొడవైన నది నైలు నది"}]}
+{"conversations": [{"from": "human", "value": "భారతదేశంలో అతి పొడవైన నది ఏది"}, {"from": "gpt", "value": "అతి పొడవైన నది గంగా నది"}]}
+{"conversations": [{"from": "human", "value": "గోదావరి పుట్టిన ప్రదేశం ఏది"}, {"from": "gpt", "value": "గోదావరి మహారాష్ట్రలోని త్రయంబకేశ్వర్ వద్ద పుడుతుంది"}]}
+{"conversations": [{"from": "human", "value": "కృష్ణా నది పుట్టిన ప్రదేశం ఏది"}, {"from": "gpt", "value": "కృష్ణా నది మహాబలేశ్వర్ వద్ద పుడుతుంది"}]}
+{"conversations": [{"from": "human", "value": "హిమాలయాల్లో ఎత్తైన శిఖరం ఏది"}, {"from": "gpt", "value": "ఎత్తైన శిఖరం ఎవరెస్ట్"}]}
+{"conversations": [{"from": "human", "value": "ఎవరెస్ట్ ఎత్తు ఎంత"}, {"from": "gpt", "value": "సుమారు ఎనిమిది వేల ఎనిమిది వందల నలభై ఎనిమిది మీటర్లు"}]}
+{"conversations": [{"from": "human", "value": "భారత రాజ్యాంగం అమలులోకి వచ్చిన సంవత్సరం"}, {"from": "gpt", "value": "పందొమ్మిది వందల యాభై జనవరి ఇరవై ఆరు"}]}
+{"conversations": [{"from": "human", "value": "లోక్ సభ సభ్యుల గరిష్ట సంఖ్య"}, {"from": "gpt", "value": "గరిష్టంగా ఐదు వందల యాభై రెండు"}]}
+{"conversations": [{"from": "human", "value": "రాజ్యసభ సభ్యుల పదవీకాలం"}, {"from": "gpt", "value": "ఆరు సంవత్సరాలు"}]}
+{"conversations": [{"from": "human", "value": "భారత తొలి ప్రధాని ఎవరు"}, {"from": "gpt", "value": "జవహర్ లాల్ నెహ్రూ"}]}
+{"conversations": [{"from": "human", "value": "భారత తొలి రాష్ట్రపతి ఎవరు"}, {"from": "gpt", "value": "డాక్టర్ రాజేంద్ర ప్రసాద్"}]}
+{"conversations": [{"from": "human", "value": "కంప్యూటర్ పితామహుడు ఎవరు"}, {"from": "gpt", "value": "చార్లెస్ బాబేజ్"}]}
+{"conversations": [{"from": "human", "value": "ఇంటర్నెట్ పితామహుడు ఎవరు"}, {"from": "gpt", "value": "వింట్ సెర్ఫ్ మరియు బాబ్ కాన్"}]}
+{"conversations": [{"from": "human", "value": "వరల్డ్ వైడ్ వెబ్ కనిపెట్టింది ఎవరు"}, {"from": "gpt", "value": "టిమ్ బెర్నర్స్ లీ"}]}
+{"conversations": [{"from": "human", "value": "లైట్ వేగం ఎంత"}, {"from": "gpt", "value": "సెకనుకు సుమారు మూడు లక్షల కిలోమీటర్లు"}]}
+{"conversations": [{"from": "human", "value": "ధ్వని వేగం గాలిలో ఎంత"}, {"from": "gpt", "value": "సెకనుకు సుమారు మూడు వందల నలభై మూడు మీటర్లు"}]}
+{"conversations": [{"from": "human", "value": "మానవ శరీర ఉష్ణోగ్రత సాధారణం"}, {"from": "gpt", "value": "తొంభై ఎనిమిది పాయింట్ ఆరు డిగ్రీల ఫారెన్ హీట్"}]}
+{"conversations": [{"from": "human", "value": "రక్తం గ్రూపులు ఎన్ని"}, {"from": "gpt", "value": "ప్రధానంగా నాలుగు ఏ బి ఏబి ఓ"}]}
+{"conversations": [{"from": "human", "value": "యూనివర్సల్ డోనర్ గ్రూప్ ఏది"}, {"from": "gpt", "value": "ఓ నెగటివ్"}]}
+{"conversations": [{"from": "human", "value": "యూనివర్సల్ రిసీవర్ గ్రూప్ ఏది"}, {"from": "gpt", "value": "ఏబి పాజిటివ్"}]}
+{"conversations": [{"from": "human", "value": "విటమిన్ సి లోపం వల్ల వచ్చే వ్యాధి"}, {"from": "gpt", "value": "స్కర్వీ"}]}
+{"conversations": [{"from": "human", "value": "విటమిన్ డి మనకు ఎలా వస్తుంది"}, {"from": "gpt", "value": "సూర్యరశ్మి ద్వారా చర్మంలో తయారవుతుంది"}]}
+{"conversations": [{"from": "human", "value": "అత్యధిక జనాభా కలిగిన దేశం"}, {"from": "gpt", "value": "ప్రస్తుతం భారతదేశం"}]}
+{"conversations": [{"from": "human", "value": "ప్రపంచంలో అతి చిన్న దేశం"}, {"from": "gpt", "value": "వాటికన్ సిటీ"}]}
+{"conversations": [{"from": "human", "value": "ఆక్సిజన్ ఎక్కువ ఇచ్చే చెట్టు"}, {"from": "gpt", "value": "రావి చెట్టు"}]}
+{"conversations": [{"from": "human", "value": "ఫోటోసింథసిస్ కు కావలసినది"}, {"from": "gpt", "value": "సూర్యకాంతి నీరు కార్బన్ డై ఆక్సైడ్"}]}
+{"conversations": [{"from": "human", "value": "భూమి సూర్యుని చుట్టూ తిరగడానికి పట్టే కాలం"}, {"from": "gpt", "value": "మూడు వందల అరవై ఐదు రోజుల ఆరు గంటలు"}]}
+{"conversations": [{"from": "human", "value": "లీపు సంవత్సరం ఎప్పుడు వస్తుంది"}, {"from": "gpt", "value": "నాలుగు సంవత్సరాలకు ఒకసారి"}]}
+{"conversations": [{"from": "human", "value": "ఒక వారంలో ఎన్ని రోజులు"}, {"from": "gpt", "value": "ఏడు రోజులు"}]}
+{"conversations": [{"from": "human", "value": "ఒక సంవత్సరంలో ఎన్ని నెలలు"}, {"from": "gpt", "value": "పన్నెండు నెలలు"}]}
+{"conversations": [{"from": "human", "value": "ఇండియన్ స్టాండర్డ్ టైమ్ గ్రీన్విచ్ కంటే ఎంత ముందు"}, {"from": "gpt", "value": "ఐదు గంటల ముప్పై నిమిషాలు ముందు"}]}
+{"conversations": [{"from": "human", "value": "తాజ్ మహల్ ఎక్కడ ఉంది"}, {"from": "gpt", "value": "ఉత్తరప్రదేశ్ లోని ఆగ్రాలో ఉంది"}]}
+{"conversations": [{"from": "human", "value": "చార్మినార్ ఎక్కడ ఉంది"}, {"from": "gpt", "value": "హైదరాబాద్ లో ఉంది"}]}
+{"conversations": [{"from": "human", "value": "గోల్కొండ కోట ఎక్కడ ఉంది"}, {"from": "gpt", "value": "హైదరాబాద్ లో ఉంది"}]}
+{"conversations": [{"from": "human", "value": "కంప్యూటర్ లో సిపియు అంటే"}, {"from": "gpt", "value": "సెంట్రల్ ప్రాసెసింగ్ యూనిట్"}]}
+{"conversations": [{"from": "human", "value": "ర్యామ్ అంటే"}, {"from": "gpt", "value": "రాండమ్ యాక్సెస్ మెమరీ"}]}
+{"conversations": [{"from": "human", "value": "హార్డ్ డిస్క్ పని ఏమిటి"}, {"from": "gpt", "value": "శాశ్వతంగా డేటా నిల్వ చేయడం"}]}
+{"conversations": [{"from": "human", "value": "ఇంటర్నెట్ లో హెచ్ టి టి పి అంటే"}, {"from": "gpt", "value": "హైపర్ టెక్స్ట్ ట్రాన్స్ఫర్ ప్రోటోకాల్"}]}
+{"conversations": [{"from": "human", "value": "ఈమెయిల్ అంటే"}, {"from": "gpt", "value": "ఎలక్ట్రానిక్ మెయిల్"}]}
+{"conversations": [{"from": "human", "value": "వైఫై అంటే"}, {"from": "gpt", "value": "వైర్లెస్ ఫిడెలిటీ"}]}
+{"conversations": [{"from": "human", "value": "బ్లూటూత్ పేరు ఎలా వచ్చింది"}, {"from": "gpt", "value": "డెన్మార్క్ రాజు హెరాల్డ్ బ్లూటూత్ పేరు మీద"}]}
+{"conversations": [{"from": "human", "value": "మొబైల్ నెట్వర్క్ లో ఫోర్ జి అంటే"}, {"from": "gpt", "value": "నాలుగో తరం"}]}
+{"conversations": [{"from": "human", "value": "ఫైవ్ జి వేగం ఎక్కువా"}, {"from": "gpt", "value": "అవును ఫోర్ జి కంటే చాలా వేగం"}]}
+{"conversations": [{"from": "human", "value": "కీబోర్డ్ లో క్యూ డబ్ల్యు ఇ ఆర్ టి వై ఎందుకు"}, {"from": "gpt", "value": "టైపు వేగం నియంత్రించడానికి రూపొందించిన అమరిక"}]}
+{"conversations": [{"from": "human", "value": "మౌస్ కనిపెట్టింది ఎవరు"}, {"from": "gpt", "value": "డగ్లస్ ఎంగెల్బార్ట్"}]}
+{"conversations": [{"from": "human", "value": "పెన్ డ్రైవ్ ను ఏమంటారు"}, {"from": "gpt", "value": "యూఎస్బి ఫ్లాష్ డ్రైవ్"}]}
+{"conversations": [{"from": "human", "value": "క్లౌడ్ స్టోరేజ్ అంటే"}, {"from": "gpt", "value": "ఇంటర్నెట్ లో డేటా నిల్వ"}]}
+{"conversations": [{"from": "human", "value": "ఆర్టిఫిషియల్ ఇంటెలిజెన్స్ అంటే"}, {"from": "gpt", "value": "మానవ మేధస్సును అనుకరించే యంత్రాలు"}]}
+{"conversations": [{"from": "human", "value": "మెషిన్ లెర్నింగ్ అంటే"}, {"from": "gpt", "value": "డేటా నుండి నేర్చుకునే పద్ధతి"}]}
+{"conversations": [{"from": "human", "value": "పైథాన్ అనేది ఏమిటి"}, {"from": "gpt", "value": "ఒక ప్రోగ్రామింగ్ భాష"}]}
+{"conversations": [{"from": "human", "value": "హెచ్ టి ఎం ఎల్ ఉపయోగం"}, {"from": "gpt", "value": "వెబ్ పేజీల నిర్మాణం"}]}
+{"conversations": [{"from": "human", "value": "సి ఎస్ ఎస్ ఉపయోగం"}, {"from": "gpt", "value": "వెబ్ పేజీల అలంకరణ"}]}
+{"conversations": [{"from": "human", "value": "జావాస్క్రిప్ట్ ఉపయోగం"}, {"from": "gpt", "value": "వెబ్ పేజీలకు చలనం"}]}
+{"conversations": [{"from": "human", "value": "డేటాబేస్ అంటే"}, {"from": "gpt", "value": "సమాచార నిల్వ వ్యవస్థ"}]}
+{"conversations": [{"from": "human", "value": "ఎస్ క్యూ ఎల్ అంటే"}, {"from": "gpt", "value": "స్ట్రక్చర్డ్ క్వెరీ లాంగ్వేజ్"}]}
+{"conversations": [{"from": "human", "value": "ఆపరేటింగ్ సిస్టమ్ ఉదాహరణ"}, {"from": "gpt", "value": "విండోస్ లినక్స్ ఆండ్రాయిడ్"}]}
+{"conversations": [{"from": "human", "value": "ఆండ్రాయిడ్ ఎవరిది"}, {"from": "gpt", "value": "గూగుల్ సంస్థది"}]}
+{"conversations": [{"from": "human", "value": "ఐఓఎస్ ఎవరిది"}, {"from": "gpt", "value": "ఆపిల్ సంస్థది"}]}
+{"conversations": [{"from": "human", "value": "యూట్యూబ్ స్థాపన సంవత్సరం"}, {"from": "gpt", "value": "రెండు వేల ఐదు"}]}
+{"conversations": [{"from": "human", "value": "ఫేస్బుక్ స్థాపకుడు"}, {"from": "gpt", "value": "మార్క్ జుకర్బర్గ్"}]}
+{"conversations": [{"from": "human", "value": "వాట్సాప్ స్థాపన సంవత్సరం"}, {"from": "gpt", "value": "రెండు వేల తొమ్మిది"}]}
+{"conversations": [{"from": "human", "value": "ట్విట్టర్ ఇప్పుడు పేరు"}, {"from": "gpt", "value": "ఎక్స్"}]}
+{"conversations": [{"from": "human", "value": "ఇన్స్టాగ్రామ్ ఎవరిది"}, {"from": "gpt", "value": "మెటా సంస్థది"}]}
+{"conversations": [{"from": "human", "value": "గూగుల్ స్థాపకులు"}, {"from": "gpt", "value": "లారీ పేజ్ సెర్గీ బ్రిన్"}]}
+{"conversations": [{"from": "human", "value": "మైక్రోసాఫ్ట్ స్థాపకులు"}, {"from": "gpt", "value": "బిల్ గేట్స్ పాల్ అలెన్"}]}
+{"conversations": [{"from": "human", "value": "ఆపిల్ స్థాపకులు"}, {"from": "gpt", "value": "స్టీవ్ జాబ్స్ స్టీవ్ వోజ్నియాక్"}]}
+{"conversations": [{"from": "human", "value": "అమెజాన్ స్థాపకుడు"}, {"from": "gpt", "value": "జెఫ్ బెజోస్"}]}
+{"conversations": [{"from": "human", "value": "టెస్లా సిఈఓ"}, {"from": "gpt", "value": "ఎలాన్ మస్క్"}]}
+{"conversations": [{"from": "human", "value": "ఐఎస్ ఆర్ ఓ అంటే"}, {"from": "gpt", "value": "ఇండియన్ స్పేస్ రీసెర్చ్ ఆర్గనైజేషన్"}]}
+{"conversations": [{"from": "human", "value": "ఐఎస్ ఆర్ ఓ ప్రధాన కార్యాలయం"}, {"from": "gpt", "value": "బెంగళూరు"}]}
+{"conversations": [{"from": "human", "value": "చంద్రయాన్ మూడు ల్యాండింగ్ తేది"}, {"from": "gpt", "value": "రెండు వేల ఇరవై మూడు ఆగస్టు ఇరవై మూడు"}]}
+{"conversations": [{"from": "human", "value": "మంగళ్యాన్ ప్రయోగ సంవత్సరం"}, {"from": "gpt", "value": "రెండు వేల పదమూడు"}]}
+{"conversations": [{"from": "human", "value": "నాసా అంటే"}, {"from": "gpt", "value": "నేషనల్ ఏరోనాటిక్స్ అండ్ స్పేస్ అడ్మినిస్ట్రేషన్"}]}
+{"conversations": [{"from": "human", "value": "మొదటి మనిషి చంద్రునిపై"}, {"from": "gpt", "value": "నీల్ ఆర్మ్ స్ట్రాంగ్"}]}
+{"conversations": [{"from": "human", "value": "మొదటి మహిళ అంతరిక్షంలో"}, {"from": "gpt", "value": "వాలెంటీనా తెరెష్కోవా"}]}
+{"conversations": [{"from": "human", "value": "భారత మొదటి వ్యోమగామి"}, {"from": "gpt", "value": "రాకేష్ శర్మ"}]}
+{"conversations": [{"from": "human", "value": "కల్పనా చావ్లా ఏ దేశస్థురాలు"}, {"from": "gpt", "value": "భారత సంతతి అమెరికా వ్యోమగామి"}]}
+{"conversations": [{"from": "human", "value": "సునీతా విలియమ్స్ మూలాలు"}, {"from": "gpt", "value": "భారత సంతతి"}]}
+{"conversations": [{"from": "human", "value": "ఒలింపిక్స్ ఎన్ని సంవత్సరాలకు ఒకసారి"}, {"from": "gpt", "value": "నాలుగు సంవత్సరాలకు"}]}
+{"conversations": [{"from": "human", "value": "క్రికెట్ లో ఒక జట్టులో ఎంతమంది"}, {"from": "gpt", "value": "పదకొండు మంది"}]}
+{"conversations": [{"from": "human", "value": "ఫుట్ బాల్ లో ఒక జట్టులో ఎంతమంది"}, {"from": "gpt", "value": "పదకొండు మంది"}]}
+{"conversations": [{"from": "human", "value": "హాకీ లో ఒక జట్టులో ఎంతమంది"}, {"from": "gpt", "value": "పదకొండు మంది"}]}
+{"conversations": [{"from": "human", "value": "బ్యాడ్మింటన్ లో నెట్ ఎత్తు"}, {"from": "gpt", "value": "మధ్యలో ఐదు అడుగుల ఒక అంగుళం"}]}
+{"conversations": [{"from": "human", "value": "చదరంగంలో రాజు కదలిక"}, {"from": "gpt", "value": "ఒక గడి ఏ దిశలోనైనా"}]}
+{"conversations": [{"from": "human", "value": "ప్రపంచ ఆరోగ్య దినం"}, {"from": "gpt", "value": "ఏప్రిల్ ఏడు"}]}
+{"conversations": [{"from": "human", "value": "ప్రపంచ పర్యావరణ దినం"}, {"from": "gpt", "value": "జూన్ ఐదు"}]}
+{"conversations": [{"from": "human", "value": "ఉపాధ్యాయ దినోత్సవం భారత్"}, {"from": "gpt", "value": "సెప్టెంబర్ ఐదు"}]}
+{"conversations": [{"from": "human", "value": "బాలల దినోత్సవం భారత్"}, {"from": "gpt", "value": "నవంబర్ పద్నాలుగు"}]}
+{"conversations": [{"from": "human", "value": "మహిళా దినోత్సవం"}, {"from": "gpt", "value": "మార్చి ఎనిమిది"}]}
+{"conversations": [{"from": "human", "value": "యోగా దినోత్సవం"}, {"from": "gpt", "value": "జూన్ ఇరవై ఒకటి"}]}
+{"conversations": [{"from": "human", "value": "కాంతి సంవత్సరం అంటే"}, {"from": "gpt", "value": "కాంతి ఒక సంవత్సరంలో ప్రయాణించే దూరం"}]}
+{"conversations": [{"from": "human", "value": "ఒక కాంతి సంవత్సరం దూరం"}, {"from": "gpt", "value": "సుమారు తొమ్మిది పాయింట్ నాలుగు ఆరు లక్షల కోట్ల కిలోమీటర్లు"}]}
+{"conversations": [{"from": "human", "value": "అత్యంత వేడి గ్రహం"}, {"from": "gpt", "value": "శుక్రుడు"}]}
+{"conversations": [{"from": "human", "value": "అత్యంత చల్లని గ్రహం"}, {"from": "gpt", "value": "యురేనస్"}]}
+{"conversations": [{"from": "human", "value": "భూమి వ్యాసం"}, {"from": "gpt", "value": "సుమారు పన్నెండు వేల ఏడు వందల నలభై రెండు కిలోమీటర్లు"}]}
+{"conversations": [{"from": "human", "value": "వాతావరణంలో నైట్రోజన్ శాతం"}, {"from": "gpt", "value": "సుమారు డెబ్బై ఎనిమిది శాతం"}]}
+{"conversations": [{"from": "human", "value": "వాతావరణంలో ఆక్సిజన్ శాతం"}, {"from": "gpt", "value": "సుమారు ఇరవై ఒకటి శాతం"}]}
+{"conversations": [{"from": "human", "value": "మానవ మెదడు బరువు"}, {"from": "gpt", "value": "సుమారు ఒకటి పాయింట్ నాలుగు కిలోలు"}]}
+{"conversations": [{"from": "human", "value": "మానవ శరీరంలో ఎముకల సంఖ్య"}, {"from": "gpt", "value": "పెద్దవారిలో రెండు వందల ఆరు"}]}
+{"conversations": [{"from": "human", "value": "పిల్లలలో ఎముకల సంఖ్య"}, {"from": "gpt", "value": "సుమారు మూడు వందలు"}]}
+{"conversations": [{"from": "human", "value": "రక్తం ఎరుపు రంగుకు కారణం"}, {"from": "gpt", "value": "హిమోగ్లోబిన్ లోని ఇనుము"}]}
+{"conversations": [{"from": "human", "value": "డయాబెటిస్ అంటే"}, {"from": "gpt", "value": "రక్తంలో చక్కెర స్థాయి పెరగడం"}]}
+{"conversations": [{"from": "human", "value": "బిపి అంటే"}, {"from": "gpt", "value": "బ్లడ్ ప్రెషర్ రక్తపోటు"}]}
+{"conversations": [{"from": "human", "value": "సాధారణ బిపి"}, {"from": "gpt", "value": "నూట ఇరవై బై ఎనభై"}]}
+{"conversations": [{"from": "human", "value": "టీకా ఉపయోగం"}, {"from": "gpt", "value": "రోగనిరోధక శక్తి పెంచడం"}]}
+{"conversations": [{"from": "human", "value": "పెన్సిలిన్ కనిపెట్టింది ఎవరు"}, {"from": "gpt", "value": "అలెగ్జాండర్ ఫ్లెమింగ్"}]}
+{"conversations": [{"from": "human", "value": "ఎక్స్ రే కనిపెట్టింది ఎవరు"}, {"from": "gpt", "value": "విల్హెల్మ్ రాంట్జెన్"}]}
+{"conversations": [{"from": "human", "value": "థర్మామీటర్ కనిపెట్టింది ఎవరు"}, {"from": "gpt", "value": "గెలీలియో గెలీలీ"}]}
+{"conversations": [{"from": "human", "value": "టెలిఫోన్ కనిపెట్టింది ఎవరు"}, {"from": "gpt", "value": "అలెగ్జాండర్ గ్రాహం బెల్"}]}
+{"conversations": [{"from": "human", "value": "బల్బ్ కనిపెట్టింది ఎవరు"}, {"from": "gpt", "value": "థామస్ అల్వా ఎడిసన్"}]}
+{"conversations": [{"from": "human", "value": "కంప్యూటర్ మౌస్ సంవత్సరం"}, {"from": "gpt", "value": "పందొమ్మిది వందల అరవై నాలుగు"}]}
+{"conversations": [{"from": "human", "value": "ఇంటర్నెట్ మొదటి పేరు"}, {"from": "gpt", "value": "ఆర్పానెట్"}]}
+{"conversations": [{"from": "human", "value": "జిమెయిల్ ప్రారంభం"}, {"from": "gpt", "value": "రెండు వేల నాలుగు"}]}
+{"conversations": [{"from": "human", "value": "యూట్యూబ్ మొదటి వీడియో"}, {"from": "gpt", "value": "మీ ఎట్ ద జూ"}]}
+{"conversations": [{"from": "human", "value": "వికీపీడియా ప్రారంభం"}, {"from": "gpt", "value": "రెండు వేల ఒకటి"}]}
+{"conversations": [{"from": "human", "value": "భారత నోట్లపై ఎవరి బొమ్మ"}, {"from": "gpt", "value": "మహాత్మా గాంధీ"}]}
+{"conversations": [{"from": "human", "value": "రెండు వేల నోటు రద్దు సంవత్సరం"}, {"from": "gpt", "value": "రెండు వేల ఇరవై మూడు"}]}
+{"conversations": [{"from": "human", "value": "యూపీఐ అంటే"}, {"from": "gpt", "value": "యూనిఫైడ్ పేమెంట్స్ ఇంటర్ఫేస్"}]}
+{"conversations": [{"from": "human", "value": "ఆధార్ జారీ సంస్థ"}, {"from": "gpt", "value": "యూఐడీఏఐ"}]}
+{"conversations": [{"from": "human", "value": "పాన్ కార్డ్ పూర్తి పేరు"}, {"from": "gpt", "value": "పర్మనెంట్ అకౌంట్ నంబర్"}]}
+{"conversations": [{"from": "human", "value": "జిఎస్టి అంటే"}, {"from": "gpt", "value": "గూడ్స్ అండ్ సర్వీసెస్ టాక్స్"}]}
+{"conversations": [{"from": "human", "value": "జిఎస్టి భారత్ లో అమలు"}, {"from": "gpt", "value": "రెండు వేల పదిహేడు జూలై ఒకటి"}]}
+{"conversations": [{"from": "human", "value": "ఆర్బీఐ స్థాపన"}, {"from": "gpt", "value": "పందొమ్మిది వందల ముప్పై ఐదు"}]}
+{"conversations": [{"from": "human", "value": "ఎస్బీఐ పూర్వ నామం"}, {"from": "gpt", "value": "ఇంపీరియల్ బ్యాంక్ ఆఫ్ ఇండియా"}]}
+{"conversations": [{"from": "human", "value": "నీతి ఆయోగ్ ఏర్పాటు"}, {"from": "gpt", "value": "రెండు వేల పదిహేను"}]}
+{"conversations": [{"from": "human", "value": "ప్లానింగ్ కమిషన్ స్థానంలో"}, {"from": "gpt", "value": "నీతి ఆయోగ్"}]}
+{"conversations": [{"from": "human", "value": "భారత అతిపెద్ద రాష్ట్రం వైశాల్యం"}, {"from": "gpt", "value": "రాజస్థాన్"}]}
+{"conversations": [{"from": "human", "value": "భారత అతిచిన్న రాష్ట్రం"}, {"from": "gpt", "value": "గోవా"}]}
+{"conversations": [{"from": "human", "value": "అత్యధిక జనాభా రాష్ట్రం"}, {"from": "gpt", "value": "ఉత్తరప్రదేశ్"}]}
+{"conversations": [{"from": "human", "value": "తెలంగాణ ఏర్పాటు తేది"}, {"from": "gpt", "value": "రెండు వేల పద్నాలుగు జూన్ రెండు"}]}
+{"conversations": [{"from": "human", "value": "ఆంధ్రప్రదేశ్ విభజన సంవత్సరం"}, {"from": "gpt", "value": "రెండు వేల పద్నాలుగు"}]}
+{"conversations": [{"from": "human", "value": "హైదరాబాద్ ఏ నది ఒడ్డున"}, {"from": "gpt", "value": "మూసీ నది"}]}
+{"conversations": [{"from": "human", "value": "విజయవాడ ఏ నది ఒడ్డున"}, {"from": "gpt", "value": "కృష్ణా నది"}]}
+{"conversations": [{"from": "human", "value": "రాజమండ్రి ఏ నది ఒడ్డున"}, {"f{"conversations": [{"from": "human", "value": "టీవీ యాంకర్ ఓపెనింగ్ చెప్పు"}, {"from": "gpt", "value": "నమస్కారం. ఈ రోజు వార్తలకు స్వాగతం. నేను మీ వెంకట్. ముందుగా ముఖ్యాంశాలు చూద్దాం"}]}
 {"conversations": [{"from": "human", "value": "రేడియో జాకీ ఉదయం షో మొదలు"}, {"from": "gpt", "value": "గుడ్ మార్నింగ్ నేస్తాలూ. ఇది మీ మనసుకు నచ్చిన పాటల పెట్టె. నేను మీ స్నేహితుడు వెంకట్. కాఫీ తాగుతూ వినండి"}]}
 {"conversations": [{"from": "human", "value": "యూట్యూబర్ వీడియో ఇంట్రో"}, {"from": "gpt", "value": "హాయ్ ఫ్రెండ్స్. నా ఛానల్ కి స్వాగతం. ఈ రోజు మన ఊరి రుచికరమైన పులిహోర ఎలా చేయాలో చూద్దాం"}]}
 {"conversations": [{"from": "human", "value": "టీవీ వాతావరణ వార్త"}, {"from": "gpt", "value": "ఈ రోజు రాష్ట్రంలో వర్షాలు పడే అవకాశం ఉంది. తీర ప్రాంతాల్లో గాలులు బలంగా వీస్తాయి. రైతులు జాగ్రత్తగా ఉండాలి"}]}
